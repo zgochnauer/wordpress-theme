@@ -7,7 +7,7 @@ Most noteable is the custom widget i built located in functions.php. This widget
 
 Anyone may use or improve apon this theme. 
 
-You can view this theme in use at zgochnauer.com  
+You can view this theme in use at http://zgochnauer.com  
 
 Instructions
 ===============
@@ -18,4 +18,4 @@ You may need to change the media queries to fit your needs if you add more items
 
 You find under widgets a Portrait Widget. This is meant for the primary area and the search widget for the seconday area. 
 
-Enjoy, you can view this theme at zgochnauer.com.
+Enjoy, you can view this theme at http://zgochnauer.com.
